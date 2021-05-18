@@ -2982,6 +2982,11 @@ expo-keep-awake@~9.1.2:
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-9.1.2.tgz#b3e52c7bef0ade975ae88637a2bf980f6b573368"
   integrity sha512-CCuEOQUNLYtMA0rt0sQ9u5LlIMH7lDJG7dImoorfKMsP95yHXy8dl3oCdtaz2zbsPgggVYeom9gE+gQu+Ki4rQ==
 
+expo-linear-gradient@~9.1.0:
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-9.1.0.tgz#7adfe8284268874134954b8249207938c455a5b3"
+  integrity sha512-9W4TxaDrZUzmLzd18+Eo2Ef7ONnuLrHKX0PRyHEGY2/rJCtGiPJtJuR6AS5dkX7WB/Pxlx0zK/p/qDHHw09Uxg==
+
 expo-location@~12.0.4:
   version "12.0.4"
   resolved "https://registry.yarnpkg.com/expo-location/-/expo-location-12.0.4.tgz#718b69516d5efdf8dec6d301c72b791df2da7f24"
@@ -4064,7 +4069,7 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
-lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.0:
+lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.3.0:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
